@@ -20,13 +20,12 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <SearchView
+    <androidx.appcompat.widget.SearchView
         android:id="@+id/searchbar"
         android:layout_width="300dp"
         android:layout_height="48dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="104dp"
-        android:background="@drawable/search_edittext"
         android:hint="    검색"
         android:queryHint="    검색"
         app:layout_constraintStart_toStartOf="parent"
@@ -71,7 +70,6 @@
             android:layout_marginRight="10dp"
             android:layout_marginBottom="10dp"
             android:scaleType="fitXY"
-            app:CornerRadius="10dp"
             app:srcCompat="@drawable/milk" />
 
         <LinearLayout
