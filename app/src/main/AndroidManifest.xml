@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Refrigerator_Manage">
         <activity
+            android:name=".FridgeManager"
+            android:exported="false" />
+        <activity
+            android:name=".FirstLaunchActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddFridge"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

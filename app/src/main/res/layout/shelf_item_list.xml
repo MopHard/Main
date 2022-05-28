@@ -24,7 +24,6 @@
         android:layout_width="60dp"
         android:layout_height="25dp"
         android:layout_marginTop="24dp"
-        android:background="@drawable/search_edittext"
         android:gravity="center"
         android:text="맨 위"
         android:textColor="#454242"
@@ -57,7 +56,6 @@
             android:layout_marginRight="10dp"
             android:layout_marginBottom="10dp"
             android:scaleType="fitXY"
-            app:CornerRadius="10dp"
             app:srcCompat="@drawable/milk" />
 
         <LinearLayout

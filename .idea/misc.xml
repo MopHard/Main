@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.4515" />
+        <entry key="app/src/main/res/drawable-v24/imageborder.xml" value="0.2565" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2565" />
+        <entry key="app/src/main/res/drawable/rounded_btn.xml" value="0.331" />
+        <entry key="app/src/main/res/drawable/rounded_edittext.xml" value="0.2565" />
+        <entry key="app/src/main/res/layout/activity_add_fridge.xml" value="0.29583333333333334" />
+        <entry key="app/src/main/res/layout/activity_first_launch.xml" value="0.359375" />
+        <entry key="app/src/main/res/layout/activity_fridge_manager.xml" value="0.4270833333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3734375" />
+        <entry key="app/src/main/res/layout/addfoodmenu.xml" value="0.19791666666666666" />
+        <entry key="app/src/main/res/layout/barcode_scan.xml" value="0.29583333333333334" />
+        <entry key="app/src/main/res/layout/cart_view.xml" value="0.29583333333333334" />
+        <entry key="app/src/main/res/layout/fridge_column.xml" value="0.4869791666666667" />
+        <entry key="app/src/main/res/layout/fridge_display.xml" value="0.29583333333333334" />
+        <entry key="app/src/main/res/layout/fridge_row.xml" value="0.29583333333333334" />
+        <entry key="app/src/main/res/layout/innerfridge_row.xml" value="0.5720761559383499" />
+        <entry key="app/src/main/res/layout/item_list.xml" value="0.29583333333333334" />
+        <entry key="app/src/main/res/layout/shelf_item_list.xml" value="0.29583333333333334" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
