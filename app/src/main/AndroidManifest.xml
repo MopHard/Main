@@ -19,7 +19,31 @@
             android:name=".AddFridge"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".cart_view"
+            android:exported="false"
+            android:parentActivityName=".main_activity"/>
+        <activity
+            android:name=".shelf_item_list"
+            android:exported="false"
+            android:parentActivityName=".fridge_display"/>
+        <activity
+            android:name=".barcode_scan"
+            android:exported="false"
+            android:parentActivityName=".addfoodmenu"/>
+        <activity
+            android:name=".addfoodmenu"
+            android:exported="false"
+            android:parentActivityName=".fridge_display" />
+        <activity
+            android:name=".item_list"
+            android:exported="false"
+            android:parentActivityName=".fridge_display" />
+        <activity
+            android:name=".fridge_display"
+            android:exported="false"
+            android:parentActivityName=".main_activity" />
+        <activity
+            android:name=".main_activity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
